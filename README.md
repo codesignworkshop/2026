@@ -1,1 +1,1 @@
-# Github repository for The 12th International Workshop on CODESIGN (CODESIGN 2026)
+# Github repository for the International Workshop on CODESIGN (CODESIGN 2026)

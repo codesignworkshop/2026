@@ -28,7 +28,7 @@ layout: default
 
 # Overview
 
-CODESIGN 2026, the 12th International Workshop on CODESIGN, will be held from October 20 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Dr. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Dr. Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join us in Hong Kong.
+CODESIGN 2026, the International Workshop on CODESIGN, will be held from October 20 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Dr. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Dr. Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join&nbsp;us&nbsp;in&nbsp;Hong&nbsp;Kong.
 
 Since its inception, CODESIGN has developed into an internationally recognized forum for breaking down disciplinary boundaries among hardware design, system software, algorithms, and scientific applications. It brings together hardware architects, system software developers, applied mathematicians, and computational scientists to pursue deep, sustained collaboration. As computing systems become increasingly complex and the benefits of isolated optimization diminish, cross-layer co-design has become one of the most dependable paths to higher performance, greater efficiency, and continued scientific progress.
 
@@ -75,8 +75,7 @@ The technical program is organized around four primary directions:
 ### 2026.10.21
 * 07:00–08:30 — Breakfast
 * 09:00–09:20 — Opening Session
-* 09:20–10:05 — Keynote I
-* 10:05–10:50 — Keynote II
+* 09:20–10:50 — Workshop sessions
 * 10:50–11:10 — Group Photo & Coffee Break
 * 11:10–12:30 — Workshop sessions
 * 12:30–13:45 — Lunch
@@ -98,38 +97,6 @@ The technical program is organized around four primary directions:
 ### 2026.10.23
 * All day — Leaving Workshop
 
-# Keynote Speakers
-* Dr. Depei Qian, _Academician of the Chinese Academy of Sciences; Professor, Beihang University, China_
-* Dr. Torsten Hoefler, _Professor, ETH Zürich, Switzerland_
-
-# Invited Speakers
-* Dr. Xian-He Sun, _Distinguished Professor, Illinois Institute of Technology; IEEE Fellow, U.S._
-* Dr. Sheng Di, _Researcher, Argonne National Laboratory, U.S._
-* Dr. Felix Wolf, _Professor, TU Darmstadt, Germany_
-* Dr. Thomas Ludwig, _Director, German Climate Computing Center (DKRZ); Professor, University of Hamburg, Germany_
-* Dr. Marc Casas, _Technical Research Lead, Barcelona Supercomputing Center (BSC); Lecturer, Universitat Politècnica de Catalunya (UPC), Spain_
-* Dr. Kento Sato, _Researcher, RIKEN Center for Computational Science, Japan_
-* Dr. Mohamed Wahib, _Researcher, RIKEN Center for Computational Science, Japan_
-* Dr. Bingsheng He, _Professor, National University of Singapore, Singapore_
-* Dr. Jingling Xue, _Scientia Professor, UNSW Sydney, Australia_
-* Dr. Xubin He, _Professor, Temple University, U.S.; Chair Professor, Eastern Institute of Technology, Ningbo, China_
-* Dr. Zhiwei Xu, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Ms. Yutong Lu, _Professor, Sun Yat-sen University; Director, National Supercomputer Center in Guangzhou, China_
-* Dr. Guangming Tan, _Secretary-General, Technical Committee on High Performance Computing, China Computer Federation; Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Dr. Zizhong Chen, _Presidential Chair Professor, The Chinese University of Hong Kong, Shenzhen, China_
-* Dr. Xiaobo Zhou, _Professor, University of Macau, Macao, China_
-* Dr. Weifeng Liu, _Professor, China University of Petroleum, Beijing, China_
-* Dr. Dazhao Cheng, _Professor, Wuhan University, China_
-* Dr. Hailong Yang, _Professor, Beihang University, China_
-* Dr. Junjie Wu, _Professor, National University of Defense Technology, China_
-* Dr. Zhendong Li, _Professor, Beijing Normal University, China_
-* Dr. Zhiding Liang, _Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong, China_
-* Dr. Zhaorui Zhang, _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China_
-* Dr. Weile Jia, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Dr. Zhan Wang, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Dr. Dingwen Tao, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Dr. Chi Zhou, _Assistant Professor, Hong Kong Baptist University, Hong Kong, China_
-
 # Organization Committee
 
 ### General Chairs
@@ -144,17 +111,6 @@ The technical program is organized around four primary directions:
 ### Opening Remarks
 * Dr. Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
 * Dr. Guangming Tan, _Secretary-General, Technical Committee on High Performance Computing, China Computer Federation; Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-
-### Program Committee
-* Dr. Zizhong Chen, _CUHK (Shenzhen), China_
-* Dr. Liping Liu, _Chinese Academy of Sciences, China_
-* Dr. Torsten Hoefler, _ETH Zurich, Swizerland_
-* Dr. Weile Jia, _Chinese Academy of Sciences, China_
-* Dr. Xinhua Lin, _Shanghai Jiaotong University, China_
-* Dr. Kento Sato, _RIKEN, Japan_
-
-### Executive Chair
-* Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
 
 ### Registration Chair
 * Wenjing Huang, _Chinese Academy of Sciences, China_
