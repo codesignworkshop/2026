@@ -105,7 +105,7 @@ The technical program is organized around four primary directions:
 
 ### Program Chairs
 * Dr. Dingwen Tao, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Dr. Chi Zhou, _Assistant Professor, Hong Kong Baptist University, Hong Kong, China_
+* Amelie Chi Zhou, _Assistant Professor, Hong Kong Baptist University, Hong Kong, China_
 * Dr. Zhaorui Zhang, _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China_
 
 ### Opening Remarks
