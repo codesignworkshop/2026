@@ -28,7 +28,7 @@ layout: default
 
 # Overview
 
-CODESIGN 2026, the International Workshop on CODESIGN, will be held from October 20 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Dr. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Dr. Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join&nbsp;us&nbsp;in&nbsp;Hong&nbsp;Kong.
+CODESIGN 2026, the International Workshop on CODESIGN, will be held from October 20 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join&nbsp;us&nbsp;in&nbsp;Hong&nbsp;Kong.
 
 Since its inception, CODESIGN has developed into an internationally recognized forum for breaking down disciplinary boundaries among hardware design, system software, algorithms, and scientific applications. It brings together hardware architects, system software developers, applied mathematicians, and computational scientists to pursue deep, sustained collaboration. As computing systems become increasingly complex and the benefits of isolated optimization diminish, cross-layer co-design has become one of the most dependable paths to higher performance, greater efficiency, and continued scientific progress.
 
@@ -100,17 +100,17 @@ The technical program is organized around four primary directions:
 # Organization Committee
 
 ### General Chairs
-* Dr. Ninghui Sun, _Academician of the Chinese Academy of Engineering; Professor, Institute of Computing Technology, Chinese Academy of Sciences; Dean, School of Computer Science and Technology, University of Chinese Academy of Sciences, China_
-* Dr. Jiannong Cao, _Vice President, The Hong Kong Polytechnic University; Otto Poon Charitable Foundation Professor in Data Science; Chair Professor of Distributed and Mobile Computing, Department of Computing, Hong Kong, China_
+* Ninghui Sun, _Academician of the Chinese Academy of Engineering; Professor, Institute of Computing Technology, Chinese Academy of Sciences; Dean, School of Computer Science and Technology, University of Chinese Academy of Sciences, China_
+* Jiannong Cao, _Vice President, The Hong Kong Polytechnic University; Otto Poon Charitable Foundation Professor in Data Science; Chair Professor of Distributed and Mobile Computing, Department of Computing, Hong Kong, China_
 
 ### Program Chairs
-* Dr. Dingwen Tao, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Dingwen Tao, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
 * Amelie Chi Zhou, _Assistant Professor, Hong Kong Baptist University, Hong Kong, China_
-* Dr. Zhaorui Zhang, _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China_
+* Zhaorui Zhang, _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China_
 
 ### Opening Remarks
-* Dr. Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
-* Dr. Guangming Tan, _Secretary-General, Technical Committee on High Performance Computing, China Computer Federation; Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
+* Guangming Tan, _Secretary-General, Technical Committee on High Performance Computing, China Computer Federation; Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
 
 ### Registration Chair
 * Wenjing Huang, _Chinese Academy of Sciences, China_
