@@ -28,7 +28,7 @@ layout: default
 
 # Overview
 
-CODESIGN 2026, the International Workshop on CODESIGN, will be held from October 20 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join&nbsp;us&nbsp;in&nbsp;Hong&nbsp;Kong.
+CODESIGN 2026, the International Workshop on CODESIGN, will be held from October 21 to 23, 2026 at The Hong Kong Polytechnic University in Hong Kong, China. The workshop is organized by the China Computer Federation (CCF), hosted by the CCF Technical Committee on High Performance Computing (CCF TCHPC), and co-organized by the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and The Hong Kong Polytechnic University. Ninghui Sun, Academician of the Chinese Academy of Engineering, and Jiannong Cao, Vice President of The Hong Kong Polytechnic University, serve as the General Chairs. On behalf of the organizing committee, we warmly invite colleagues from around the world to join&nbsp;us&nbsp;in&nbsp;Hong&nbsp;Kong.
 
 Since its inception, CODESIGN has developed into an internationally recognized forum for breaking down disciplinary boundaries among hardware design, system software, algorithms, and scientific applications. It brings together hardware architects, system software developers, applied mathematicians, and computational scientists to pursue deep, sustained collaboration. As computing systems become increasingly complex and the benefits of isolated optimization diminish, cross-layer co-design has become one of the most dependable paths to higher performance, greater efficiency, and continued scientific progress.
 
@@ -42,7 +42,7 @@ CODESIGN 2026 will focus on four themes: algorithm–software co-design, archite
 
 - **Venue:** The Hong Kong Polytechnic University
 - **Address:** 11 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong SAR, China
-- **Dates:** October 20, 2026 (Registration) – October 23, 2026 (Departure), 4 days
+- **Dates:** October 21, 2026 (Arrival and Registration) – October 23, 2026 (Departure), 3 days
 
 # Topics of Interest
 
@@ -69,33 +69,34 @@ The technical program is organized around four primary directions:
   - Data and communication infrastructure for hybrid workloads and emerging domain-specific computing systems
 
 # Workshop Program
-### 2026.10.20
-* All day — Workshop Registration
-
 ### 2026.10.21
-* 07:00–08:30 — Breakfast
-* 09:00–09:20 — Opening Session
-* 09:20–10:50 — Workshop sessions
-* 10:50–11:10 — Group Photo & Coffee Break
-* 11:10–12:30 — Workshop sessions
-* 12:30–13:45 — Lunch
-* 13:45–15:25 — Workshop sessions
-* 15:25–15:50 — Coffee Break
-* 15:50–16:50 — Workshop sessions
-* 18:00–20:30 — Dinner
+* 09:00–13:30 — Arrival in Hong Kong & Registration
+* 13:30–13:50 — Opening Session
+* 13:50–15:20 — Keynote Session
+* 15:20–15:45 — Group Photo & Coffee Break
+* 15:45–17:05 — Session I
+* 18:00–20:30 — Welcome Dinner
 
 ### 2026.10.22
 * 07:00–08:30 — Breakfast
-* 09:30–10:50 — Workshop sessions
-* 10:50–11:20 — Coffee Break
-* 11:20–12:00 — Workshop sessions
-* 12:00–13:30 — Lunch
-* 13:30–15:30 — Panel Discussions 1 & 2
-* 15:30–17:00 — Tour of The Hong Kong Polytechnic University
+* 09:00–10:40 — Session II-A
+* 10:40–11:05 — Coffee Break
+* 11:05–12:25 — Session II-B
+* 12:25–13:45 — Lunch
+* 13:45–15:25 — Session III
+* 15:25–15:50 — Coffee Break
+* 15:50–16:50 — Panel Discussion 1
+* 16:50–17:30 — Tour of The Hong Kong Polytechnic University
 * 18:00–20:30 — Dinner
 
 ### 2026.10.23
-* All day — Leaving Workshop
+* 07:00–08:30 — Breakfast
+* 09:00–10:00 — Session IV
+* 10:00–10:20 — Coffee Break
+* 10:20–11:20 — Panel Discussion 2
+* 11:20–11:40 — Closing Session
+* 11:40–13:00 — Lunch
+* From 13:00 — Leaving Workshop
 
 # Organization Committee
 
