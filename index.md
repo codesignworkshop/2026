@@ -101,24 +101,26 @@ The technical program is organized around four primary directions:
 # Organization Committee
 
 ### General Chairs
-* Ninghui Sun, _Academician of the Chinese Academy of Engineering; Professor, Institute of Computing Technology, Chinese Academy of Sciences; Dean, School of Computer Science and Technology, University of Chinese Academy of Sciences, China_
-* Jiannong Cao, _Vice President, The Hong Kong Polytechnic University; Otto Poon Charitable Foundation Professor in Data Science; Chair Professor of Distributed and Mobile Computing, Department of Computing, Hong Kong, China_
+* Ninghui Sun, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Jiannong Cao, _The Hong Kong Polytechnic University, Hong Kong, China_
 
 ### Program Chairs
-* Dingwen Tao, _Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-* Amelie Chi Zhou, _Assistant Professor, Hong Kong Baptist University, Hong Kong, China_
-* Zhaorui Zhang, _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China_
+* Dingwen Tao, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Amelie Chi Zhou, _Hong Kong Baptist University, Hong Kong, China_
+* Zhaorui Zhang, _The Hong Kong Polytechnic University, Hong Kong, China_
+
+### Organizing Committee
+* **Organizing Chair:** Guangming Tan, _Secretary General, CCF Technical Committee on High Performance Computing (CCF TCHPC); Institute of Computing Technology, Chinese Academy of Sciences, China_
+* **Local Arrangements Chairs:** Zhaorui Zhang, _The Hong Kong Polytechnic University, Hong Kong, China_; Liping Liu, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* **Sponsorship Chair:** En Shao, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* **Finance Chair:** Guojun Yuan, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* **Publicity Chair:** Xueqi Li, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* **Registration Chairs:** Wenjing Huang, _University of Chinese Academy of Sciences, China_; Yida Gu, _University of Chinese Academy of Sciences, China_
+* **Web Chair:** Bing Lu, _University of Chinese Academy of Sciences, China_
 
 ### Opening Remarks
-* Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
-* Guangming Tan, _Secretary-General, Technical Committee on High Performance Computing, China Computer Federation; Professor, Institute of Computing Technology, Chinese Academy of Sciences, China_
-
-### Registration Chair
-* Wenjing Huang, _Chinese Academy of Sciences, China_
-* Yida Gu, _Chinese Academy of Sciences, China_
-
-### Web Chair
-* Bing Lu, _Chinese Academy of Sciences, China_
+* Jiannong Cao, _The Hong Kong Polytechnic University, Hong Kong, China_
+* Guangming Tan, _CCF Technical Committee on High Performance Computing (CCF TCHPC); Institute of Computing Technology, Chinese Academy of Sciences, China_
 
 # Sponsor
 <style>
