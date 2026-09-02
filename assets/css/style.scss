@@ -221,19 +221,17 @@ a:focus {
 }
 
 #main_content .sponsor-grid {
-  gap: 0;
+  gap: 18px 24px;
   margin-top: 18px;
-  border-top: 1px solid var(--conference-line);
-  border-left: 1px solid var(--conference-line);
+  border: 0;
 }
 
 #main_content .sponsor-tile {
   height: 132px;
-  padding: 16px 14px;
-  border-right: 1px solid var(--conference-line);
-  border-bottom: 1px solid var(--conference-line);
+  padding: 8px 6px;
+  border: 0;
   border-radius: 0;
-  background: #fff;
+  background: transparent;
   box-shadow: none;
 }
 

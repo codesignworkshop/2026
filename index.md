@@ -7,10 +7,14 @@ layout: default
   .destination-gallery figure { position: relative; overflow: hidden; height: 190px; margin: 0; border-radius: 4px; background: #eef1f4; }
   .destination-gallery .destination-hero { grid-column: 1 / -1; height: 280px; }
   .destination-gallery img { display: block; width: 100%; height: 100%; object-fit: cover; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; }
+  .venue-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 18px 0 34px; }
+  .venue-gallery figure { position: relative; overflow: hidden; aspect-ratio: 3 / 2; margin: 0; border: 1px solid #d8dee6; border-radius: 2px; background: #eef1f4; }
+  .venue-gallery img { display: block; width: 100%; height: 100%; object-fit: cover; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; }
   @media (max-width: 520px) {
     .destination-gallery { grid-template-columns: 1fr; }
     .destination-gallery .destination-hero { grid-column: auto; height: 220px; }
     .destination-gallery figure { height: 180px; }
+    .venue-gallery { grid-template-columns: 1fr; }
   }
 </style>
 <div class="destination-gallery" aria-label="Hong Kong and PolyU photo gallery">
@@ -43,6 +47,15 @@ CODESIGN 2026 will focus on four themes: algorithm–software co-design, archite
 - **Venue:** The Hong Kong Polytechnic University
 - **Address:** 11 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong SAR, China
 - **Dates:** October 21, 2026 (Arrival and Registration) – October 23, 2026 (Departure), 3 days
+
+<div class="venue-gallery" aria-label="Workshop venue photos">
+  <figure>
+    <img src="assets/images/venue-auditorium.jpg" alt="Auditorium at The Hong Kong Polytechnic University" loading="lazy"/>
+  </figure>
+  <figure>
+    <img src="assets/images/venue-classroom.jpg" alt="Classroom at The Hong Kong Polytechnic University" loading="lazy"/>
+  </figure>
+</div>
 
 # Topics of Interest
 
@@ -141,6 +154,7 @@ The technical program is organized around four primary directions:
   .sponsor-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 24px; row-gap: 18px; width: 100%; max-width: 700px; margin: 12px auto 8px; }
   .sponsor-tile { display: flex; align-items: center; justify-content: center; min-width: 0; height: 132px; }
   .sponsor-direct { display: block; max-width: 100%; max-height: 100%; object-fit: contain; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
+  #main_content .sponsor-tile-polyu { justify-content: flex-start; overflow: visible; padding-left: 0; padding-right: 0; position: relative; z-index: 1; }
   .sponsor-crop { position: relative; overflow: hidden; flex: 0 1 auto; }
   .sponsor-crop img { position: absolute; display: block; max-width: none !important; height: auto; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
   .sponsor-cas { width: min(150px, 100%); aspect-ratio: 250 / 210; }
@@ -151,12 +165,13 @@ The technical program is organized around four primary directions:
   .sponsor-ccf img { left: -37.14%; top: -136.1%; width: 297.62%; }
   .sponsor-aiia { width: min(195px, 100%); aspect-ratio: 300 / 147; }
   .sponsor-aiia img { left: -93.33%; top: -171.43%; width: 208.33%; }
-  .sponsor-polyu { width: min(124px, 78%); }
+  .sponsor-polyu { width: 480px; max-width: none !important; }
   .sponsor-sugon { width: min(185px, 100%); }
   .sponsor-white-key { filter: url(#sponsor-white-to-alpha); mix-blend-mode: multiply; }
   @media (max-width: 520px) {
     .sponsor-grid { column-gap: 12px; row-gap: 12px; }
     .sponsor-tile { height: 100px; }
+    .sponsor-polyu { width: 160px; }
   }
 </style>
 <svg aria-hidden="true" width="0" height="0" style="position: absolute; overflow: hidden;">
@@ -167,7 +182,7 @@ The technical program is organized around four primary directions:
 <div class="sponsor-grid">
   <div class="sponsor-tile"><div class="sponsor-crop sponsor-ccf"><img src="assets/images/Sponsor_Logo.png" alt="CCF TCHPC"/></div></div>
   <div class="sponsor-tile"><div class="sponsor-crop sponsor-cas"><img src="assets/images/Sponsor_Logo.png" alt="Chinese Academy of Sciences"/></div></div>
-  <div class="sponsor-tile"><img class="sponsor-direct sponsor-polyu sponsor-white-key" src="assets/images/polyu-logo.webp" alt="The Hong Kong Polytechnic University"/></div>
+  <div class="sponsor-tile sponsor-tile-polyu"><img class="sponsor-direct sponsor-polyu sponsor-white-key" src="assets/images/polyu-logo-horizontal.png" alt="The Hong Kong Polytechnic University"/></div>
   <div class="sponsor-tile"><div class="sponsor-crop sponsor-huawei"><img src="assets/images/Sponsor_Logo.png" alt="Huawei"/></div></div>
   <div class="sponsor-tile"><img class="sponsor-direct sponsor-sugon sponsor-white-key" src="assets/images/Sugon_logo.jpg" alt="Sugon"/></div>
   <div class="sponsor-tile"><div class="sponsor-crop sponsor-aiia"><img src="assets/images/Sponsor_Logo.png" alt="Artificial Intelligence Industry Alliance"/></div></div>
