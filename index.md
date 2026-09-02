@@ -101,7 +101,7 @@ The technical program is organized around four primary directions:
 # Organization Committee
 
 ### General Chairs
-* Ninghui Sun, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Ninghui Sun, _Academician of the Chinese Academy of Engineering; Professor, Institute of Computing Technology, Chinese Academy of Sciences; Dean, School of Computer Science and Technology, University of Chinese Academy of Sciences, China_
 * Jiannong Cao, _Vice President, The Hong Kong Polytechnic University; Otto Poon Charitable Foundation Professor in Data Science; Chair Professor of Distributed and Mobile Computing, Department of Computing, Hong Kong, China_
 
 ### Organizing Chair
