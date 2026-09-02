@@ -134,7 +134,7 @@ The technical program is organized around four primary directions:
 
 ### Opening Remarks
 * Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
-* Guangming Tan, _CCF Technical Committee on High Performance Computing (CCF TCHPC); Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Guangming Tan, _Secretary General, CCF Technical Committee on High Performance Computing (CCF TCHPC); Institute of Computing Technology, Chinese Academy of Sciences, China_
 
 # Sponsor
 <style>
