@@ -151,27 +151,29 @@ The technical program is organized around four primary directions:
 
 # Sponsor
 <style>
-  .sponsor-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 24px; row-gap: 18px; width: 100%; max-width: 700px; margin: 12px auto 8px; }
-  .sponsor-tile { display: flex; align-items: center; justify-content: center; min-width: 0; height: 132px; }
+  .sponsor-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 7px; row-gap: 12px; width: min(513px, 100%); max-width: none; margin: 10px 0 6px; }
+  .sponsor-tile { display: flex; align-items: center; justify-content: center; min-width: 0; height: 116px; }
   .sponsor-direct { display: block; max-width: 100%; max-height: 100%; object-fit: contain; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
   #main_content .sponsor-tile-polyu { justify-content: flex-start; overflow: visible; padding-left: 0; padding-right: 0; position: relative; z-index: 1; }
   .sponsor-crop { position: relative; overflow: hidden; flex: 0 1 auto; }
   .sponsor-crop img { position: absolute; display: block; max-width: none !important; height: auto; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
-  .sponsor-cas { width: min(150px, 100%); aspect-ratio: 250 / 210; }
+  .sponsor-cas { width: min(135px, 100%); aspect-ratio: 250 / 210; }
   .sponsor-cas img { left: -77.2%; top: 0; width: 250%; }
-  .sponsor-huawei { width: min(108px, 100%); aspect-ratio: 170 / 210; }
+  .sponsor-huawei { width: min(97px, 100%); aspect-ratio: 170 / 210; }
   .sponsor-huawei img { left: -267.65%; top: 0; width: 367.65%; }
-  .sponsor-ccf { width: min(150px, 100%); aspect-ratio: 210 / 169; }
+  .sponsor-ccf { width: min(135px, 100%); aspect-ratio: 210 / 169; }
   .sponsor-ccf img { left: -37.14%; top: -136.1%; width: 297.62%; }
-  .sponsor-aiia { width: min(195px, 100%); aspect-ratio: 300 / 147; }
+  .sponsor-aiia { width: min(176px, 100%); aspect-ratio: 300 / 147; }
   .sponsor-aiia img { left: -93.33%; top: -171.43%; width: 208.33%; }
-  .sponsor-polyu { width: 480px; max-width: none !important; }
-  .sponsor-sugon { width: min(185px, 100%); }
+  .sponsor-aiia { transform: translateX(10px); }
+  .sponsor-polyu { width: 432px; max-width: none !important; }
+  .sponsor-sugon { width: min(167px, 100%); }
   .sponsor-white-key { filter: url(#sponsor-white-to-alpha); mix-blend-mode: multiply; }
   @media (max-width: 520px) {
-    .sponsor-grid { column-gap: 12px; row-gap: 12px; }
-    .sponsor-tile { height: 100px; }
-    .sponsor-polyu { width: 160px; }
+    .sponsor-grid { column-gap: 5px; row-gap: 8px; }
+    .sponsor-tile { height: 90px; }
+    .sponsor-polyu { width: 144px; }
+    .sponsor-aiia { transform: translateX(4px); }
   }
 </style>
 <svg aria-hidden="true" width="0" height="0" style="position: absolute; overflow: hidden;">
