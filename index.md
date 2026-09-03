@@ -169,30 +169,34 @@ The technical program is organized around four primary directions:
 
 # Sponsor
 <style>
-  .sponsor-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 7px; row-gap: 12px; width: min(513px, 100%); max-width: none; margin: 10px 0 6px; }
+  .sponsor-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); column-gap: 7px; row-gap: 12px; width: min(513px, 100%); max-width: none; margin: 10px 0 6px; }
   .sponsor-tile { display: flex; align-items: center; justify-content: center; min-width: 0; height: 116px; }
+  .sponsor-tile-cas, .sponsor-tile-ccf, .sponsor-tile-sugon, .sponsor-tile-aiia { grid-column: span 2; }
+  .sponsor-tile-polyu { grid-column: span 4; }
   .sponsor-direct { display: block; max-width: 100%; max-height: 100%; object-fit: contain; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
   #main_content .sponsor-tile-polyu { justify-content: flex-start; overflow: visible; padding-left: 0; padding-right: 0; position: relative; z-index: 1; }
   .sponsor-crop { position: relative; overflow: hidden; flex: 0 1 auto; }
   .sponsor-crop img { position: absolute; display: block; max-width: none !important; height: auto; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
   .sponsor-cas { width: min(135px, 100%); aspect-ratio: 250 / 210; }
   .sponsor-cas img { left: -77.2%; top: 0; width: 250%; }
-  .sponsor-huawei { width: min(97px, 100%); aspect-ratio: 170 / 210; }
-  .sponsor-huawei img { left: -267.65%; top: 0; width: 367.65%; }
   .sponsor-ccf { width: min(135px, 100%); aspect-ratio: 210 / 169; }
   .sponsor-ccf img { left: -37.14%; top: -136.1%; width: 297.62%; }
   .sponsor-aiia { width: min(176px, 100%); aspect-ratio: 300 / 147; }
   .sponsor-aiia img { left: -93.33%; top: -171.43%; width: 208.33%; }
   .sponsor-aiia { transform: translateX(10px); }
-  .sponsor-polyu { width: 432px; max-width: none !important; }
+  .sponsor-polyu { width: 468px; max-width: none !important; }
   .sponsor-sugon { width: min(167px, 100%); }
   .sponsor-white-key { filter: url(#sponsor-white-to-alpha); mix-blend-mode: multiply; }
   @media (max-width: 620px) {
-    #main_content .sponsor-grid { grid-template-columns: minmax(0, 0.82fr) minmax(0, 0.82fr) minmax(0, 1.55fr); column-gap: 5px; row-gap: 8px; }
+    #main_content .sponsor-grid { grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: 5px; row-gap: 8px; }
     #main_content .sponsor-tile { height: 96px; padding: 0; }
+    #main_content .sponsor-grid .sponsor-tile-cas { grid-column: 1 / span 3; }
+    #main_content .sponsor-grid .sponsor-tile-polyu { grid-column: 4 / span 9; }
+    #main_content .sponsor-grid .sponsor-tile-ccf { grid-column: 1 / span 4; }
+    #main_content .sponsor-grid .sponsor-tile-sugon { grid-column: 5 / span 4; }
+    #main_content .sponsor-grid .sponsor-tile-aiia { grid-column: 9 / span 4; }
     #main_content .sponsor-grid .sponsor-tile-polyu { justify-content: center; overflow: hidden; }
-    #main_content .sponsor-polyu { width: 100%; max-width: 178px !important; }
-    #main_content .sponsor-huawei { width: min(68px, 100%); }
+    #main_content .sponsor-polyu { width: 100%; max-width: 260px !important; }
     #main_content .sponsor-aiia { transform: none; }
   }
 </style>
@@ -202,10 +206,9 @@ The technical program is organized around four primary directions:
   </filter>
 </svg>
 <div class="sponsor-grid">
-  <div class="sponsor-tile"><div class="sponsor-crop sponsor-ccf"><img src="assets/images/Sponsor_Logo.png" alt="CCF TCHPC"/></div></div>
-  <div class="sponsor-tile"><div class="sponsor-crop sponsor-cas"><img src="assets/images/Sponsor_Logo.png" alt="Chinese Academy of Sciences"/></div></div>
+  <div class="sponsor-tile sponsor-tile-cas"><div class="sponsor-crop sponsor-cas"><img src="assets/images/Sponsor_Logo.png" alt="Chinese Academy of Sciences"/></div></div>
   <div class="sponsor-tile sponsor-tile-polyu"><img class="sponsor-direct sponsor-polyu sponsor-white-key" src="assets/images/polyu-logo-horizontal.png" alt="The Hong Kong Polytechnic University"/></div>
-  <div class="sponsor-tile"><div class="sponsor-crop sponsor-huawei"><img src="assets/images/Sponsor_Logo.png" alt="Huawei"/></div></div>
-  <div class="sponsor-tile"><img class="sponsor-direct sponsor-sugon sponsor-white-key" src="assets/images/Sugon_logo.jpg" alt="Sugon"/></div>
-  <div class="sponsor-tile"><div class="sponsor-crop sponsor-aiia"><img src="assets/images/Sponsor_Logo.png" alt="Artificial Intelligence Industry Alliance"/></div></div>
+  <div class="sponsor-tile sponsor-tile-ccf"><div class="sponsor-crop sponsor-ccf"><img src="assets/images/Sponsor_Logo.png" alt="CCF TCHPC"/></div></div>
+  <div class="sponsor-tile sponsor-tile-sugon"><img class="sponsor-direct sponsor-sugon sponsor-white-key" src="assets/images/Sugon_logo.jpg" alt="Sugon"/></div>
+  <div class="sponsor-tile sponsor-tile-aiia"><div class="sponsor-crop sponsor-aiia"><img src="assets/images/Sponsor_Logo.png" alt="Artificial Intelligence Industry Alliance"/></div></div>
 </div>
