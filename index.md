@@ -113,21 +113,21 @@ The technical program is organized around four primary directions:
 
 # Invited Speakers and Panelists
 
-* Anbang Wu — Shanghai Jiao Tong University, China
-* Bazargul Matkerim — Al-Farabi Kazakh National University, Kazakhstan
-* Bernd Mohr — Jülich Supercomputing Centre, Germany
-* Bingsheng He — National University of Singapore, Singapore
-* Dan Huang — Sun Yat-sen University, China
-* Depei Qian — Academician, Chinese Academy of Sciences; Beihang University, China
-* En Shao — Institute of Computing Technology, Chinese Academy of Sciences, China
-* Haohuan Fu — Tsinghua University; National Supercomputing Center in Shenzhen, China
-* Hong Xu — The Chinese University of Hong Kong, Hong Kong SAR
-* Honghui Shang — University of Science and Technology of China, China
-* Katsuhisa Ozaki — Shibaura Institute of Technology, Japan
-* Marc Casas — Barcelona Supercomputing Center, Spain
-* Xubin He — Temple University, USA
-* Zheng Wang — University of Leeds, United Kingdom
-* Zhiding Liang — The Chinese University of Hong Kong, Hong Kong SAR
+* Anbang Wu, _Shanghai Jiao Tong University, China_
+* Bazargul Matkerim, _Al-Farabi Kazakh National University, Kazakhstan_
+* Bernd Mohr, _Jülich Supercomputing Centre, Germany_
+* Bingsheng He, _National University of Singapore, Singapore_
+* Dan Huang, _Sun Yat-sen University, China_
+* Depei Qian, _Academician, Chinese Academy of Sciences; Beihang University, China_
+* En Shao, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Haohuan Fu, _Tsinghua University; National Supercomputing Center in Shenzhen, China_
+* Hong Xu, _The Chinese University of Hong Kong, Hong Kong SAR_
+* Honghui Shang, _University of Science and Technology of China, China_
+* Katsuhisa Ozaki, _Shibaura Institute of Technology, Japan_
+* Marc Casas, _Barcelona Supercomputing Center, Spain_
+* Xubin He, _Temple University, USA_
+* Zheng Wang, _University of Leeds, United Kingdom_
+* Zhiding Liang, _The Chinese University of Hong Kong, Hong Kong SAR_
 
 # Organization Committee
 
