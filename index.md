@@ -187,11 +187,13 @@ The technical program is organized around four primary directions:
   .sponsor-polyu { width: 432px; max-width: none !important; }
   .sponsor-sugon { width: min(167px, 100%); }
   .sponsor-white-key { filter: url(#sponsor-white-to-alpha); mix-blend-mode: multiply; }
-  @media (max-width: 520px) {
-    .sponsor-grid { column-gap: 5px; row-gap: 8px; }
-    .sponsor-tile { height: 90px; }
-    .sponsor-polyu { width: 144px; }
-    .sponsor-aiia { transform: translateX(4px); }
+  @media (max-width: 620px) {
+    #main_content .sponsor-grid { grid-template-columns: minmax(0, 0.82fr) minmax(0, 0.82fr) minmax(0, 1.55fr); column-gap: 5px; row-gap: 8px; }
+    #main_content .sponsor-tile { height: 96px; padding: 0; }
+    #main_content .sponsor-grid .sponsor-tile-polyu { justify-content: center; overflow: hidden; }
+    #main_content .sponsor-polyu { width: 100%; max-width: 178px !important; }
+    #main_content .sponsor-huawei { width: min(68px, 100%); }
+    #main_content .sponsor-aiia { transform: none; }
   }
 </style>
 <svg aria-hidden="true" width="0" height="0" style="position: absolute; overflow: hidden;">
