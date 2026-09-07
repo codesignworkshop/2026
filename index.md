@@ -125,8 +125,8 @@ The technical program is organized around four primary directions:
 * Honghui Shang, _University of Science and Technology of China, China_
 * Katsuhisa Ozaki, _Shibaura Institute of Technology, Japan_
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
-* Ming-Chang Yang, _Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR_
-* Xubin He, _Temple University, USA_
+* Ming-Chang Yang, _The Chinese University of Hong Kong, Hong Kong SAR_
+* Xubin He, _Temple University, United States of America_
 * Zheng Wang, _University of Leeds, United Kingdom_
 * Zhiding Liang, _The Chinese University of Hong Kong, Hong Kong SAR_
 
