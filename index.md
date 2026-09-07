@@ -125,6 +125,7 @@ The technical program is organized around four primary directions:
 * Honghui Shang, _University of Science and Technology of China, China_
 * Katsuhisa Ozaki, _Shibaura Institute of Technology, Japan_
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
+* Ming-Chang Yang, _Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR_
 * Xubin He, _Temple University, USA_
 * Zheng Wang, _University of Leeds, United Kingdom_
 * Zhiding Liang, _The Chinese University of Hong Kong, Hong Kong SAR_
@@ -188,7 +189,7 @@ The technical program is organized around four primary directions:
   .sponsor-sugon { width: min(167px, 100%); }
   .sponsor-white-key { filter: url(#sponsor-white-to-alpha); mix-blend-mode: multiply; }
   @media (max-width: 620px) {
-    #main_content .sponsor-grid { grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: 5px; row-gap: 8px; }
+    #main_content .sponsor-grid { grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: 5px; row-gap: 8px; width: calc(100% + 36px); max-width: none; margin-left: -18px; }
     #main_content .sponsor-tile { height: 96px; padding: 0; }
     #main_content .sponsor-grid .sponsor-tile-cas { grid-column: 1 / span 3; }
     #main_content .sponsor-grid .sponsor-tile-polyu { grid-column: 4 / span 9; }
@@ -196,7 +197,10 @@ The technical program is organized around four primary directions:
     #main_content .sponsor-grid .sponsor-tile-sugon { grid-column: 5 / span 4; }
     #main_content .sponsor-grid .sponsor-tile-aiia { grid-column: 9 / span 4; }
     #main_content .sponsor-grid .sponsor-tile-polyu { justify-content: center; overflow: hidden; }
-    #main_content .sponsor-polyu { width: 100%; max-width: 260px !important; }
+    #main_content .sponsor-polyu { width: 100%; max-width: 280px !important; }
+    #main_content .sponsor-ccf { width: min(96px, 100%); }
+    #main_content .sponsor-sugon { width: min(105px, 100%); }
+    #main_content .sponsor-aiia { width: min(105px, 100%); }
     #main_content .sponsor-aiia { transform: none; }
   }
 </style>
