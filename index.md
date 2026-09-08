@@ -123,6 +123,7 @@ The technical program is organized around four primary directions:
 * Haohuan Fu, _Tsinghua University; National Supercomputing Center in Shenzhen, China_
 * Hong Xu, _The Chinese University of Hong Kong, Hong Kong SAR_
 * Honghui Shang, _University of Science and Technology of China, China_
+* Jan Frederik Engels, _German Climate Computing Center (DKRZ), Germany_
 * Katsuhisa Ozaki, _Shibaura Institute of Technology, Japan_
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
 * Ming-Chang Yang, _The Chinese University of Hong Kong, Hong Kong SAR_
