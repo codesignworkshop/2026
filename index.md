@@ -128,6 +128,7 @@ The technical program is organized around four primary directions:
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
 * Ming-Chang Yang, _The Chinese University of Hong Kong, Hong Kong SAR_
 * Xubin He, _Temple University, United States of America_
+* Yuri Alexeev, _NVIDIA Corporation, United States of America_
 * Zheng Wang, _University of Leeds, United Kingdom_
 * Zhiding Liang, _The Chinese University of Hong Kong, Hong Kong SAR_
 
