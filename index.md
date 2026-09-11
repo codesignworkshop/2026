@@ -173,14 +173,12 @@ The technical program is organized around four primary directions:
 <style>
   .sponsor-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); column-gap: 7px; row-gap: 12px; width: min(513px, 100%); max-width: none; margin: 10px 0 6px; }
   .sponsor-tile { display: flex; align-items: center; justify-content: center; min-width: 0; height: 116px; }
-  .sponsor-tile-cas, .sponsor-tile-ccf, .sponsor-tile-sugon, .sponsor-tile-aiia { grid-column: span 2; }
-  .sponsor-tile-polyu { grid-column: span 4; }
+  .sponsor-tile-ccf, .sponsor-tile-sugon, .sponsor-tile-aiia { grid-column: span 2; }
+  .sponsor-tile-polyu { grid-column: span 6; }
   .sponsor-direct { display: block; max-width: 100%; max-height: 100%; object-fit: contain; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
   #main_content .sponsor-tile-polyu { justify-content: flex-start; overflow: visible; padding-left: 0; padding-right: 0; position: relative; z-index: 1; }
   .sponsor-crop { position: relative; overflow: hidden; flex: 0 1 auto; }
   .sponsor-crop img { position: absolute; display: block; max-width: none !important; height: auto; margin: 0 !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: transparent !important; }
-  .sponsor-cas { width: min(135px, 100%); aspect-ratio: 250 / 210; }
-  .sponsor-cas img { left: -77.2%; top: 0; width: 250%; }
   .sponsor-ccf { width: min(135px, 100%); aspect-ratio: 210 / 169; }
   .sponsor-ccf img { left: -37.14%; top: -136.1%; width: 297.62%; }
   .sponsor-aiia { width: min(176px, 100%); aspect-ratio: 300 / 147; }
@@ -192,8 +190,7 @@ The technical program is organized around four primary directions:
   @media (max-width: 620px) {
     #main_content .sponsor-grid { grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: 5px; row-gap: 8px; width: calc(100% + 36px); max-width: none; margin-left: -18px; }
     #main_content .sponsor-tile { height: 96px; padding: 0; }
-    #main_content .sponsor-grid .sponsor-tile-cas { grid-column: 1 / span 3; }
-    #main_content .sponsor-grid .sponsor-tile-polyu { grid-column: 4 / span 9; }
+    #main_content .sponsor-grid .sponsor-tile-polyu { grid-column: 1 / span 12; }
     #main_content .sponsor-grid .sponsor-tile-ccf { grid-column: 1 / span 4; }
     #main_content .sponsor-grid .sponsor-tile-sugon { grid-column: 5 / span 4; }
     #main_content .sponsor-grid .sponsor-tile-aiia { grid-column: 9 / span 4; }
@@ -211,7 +208,6 @@ The technical program is organized around four primary directions:
   </filter>
 </svg>
 <div class="sponsor-grid">
-  <div class="sponsor-tile sponsor-tile-cas"><div class="sponsor-crop sponsor-cas"><img src="assets/images/Sponsor_Logo.png" alt="Chinese Academy of Sciences"/></div></div>
   <div class="sponsor-tile sponsor-tile-polyu"><img class="sponsor-direct sponsor-polyu sponsor-white-key" src="assets/images/polyu-logo-horizontal.png" alt="The Hong Kong Polytechnic University"/></div>
   <div class="sponsor-tile sponsor-tile-ccf"><div class="sponsor-crop sponsor-ccf"><img src="assets/images/Sponsor_Logo.png" alt="CCF TCHPC"/></div></div>
   <div class="sponsor-tile sponsor-tile-sugon"><img class="sponsor-direct sponsor-sugon sponsor-white-key" src="assets/images/Sugon_logo.jpg" alt="Sugon"/></div>
