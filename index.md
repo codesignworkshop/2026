@@ -124,14 +124,19 @@ The technical program is organized around four primary directions:
 * Hong Xu, _The Chinese University of Hong Kong, Hong Kong SAR_
 * Honghui Shang, _University of Science and Technology of China, China_
 * Jan Frederik Engels, _German Climate Computing Center (DKRZ), Germany_
+* Jingling Xue, _UNSW Sydney, Australia_
 * Julien Langou, _Department Chair, Department of Mathematical and Statistical Sciences, University of Colorado Denver, United States of America_
 * Katsuhisa Ozaki, _Shibaura Institute of Technology, Japan_
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
 * Ming-Chang Yang, _The Chinese University of Hong Kong, Hong Kong SAR_
+* Weifeng Liu, _China University of Petroleum, Beijing, China_
 * Xubin He, _Temple University, United States of America_
+* Xuebin Chi, _Computer Network Information Center, Chinese Academy of Sciences, China_
+* Yuechen Lu, _China University of Petroleum, Beijing, China_
 * Yuri Alexeev, _NVIDIA Corporation, United States of America_
 * Zheng Wang, _University of Leeds, United Kingdom_
 * Zhiding Liang, _The Chinese University of Hong Kong, Hong Kong SAR_
+* Zizhong Chen, _The Chinese University of Hong Kong, Shenzhen, China_
 
 # Organization Committee
 
@@ -151,15 +156,6 @@ The technical program is organized around four primary directions:
 * Zhaorui Zhang, _The Hong Kong Polytechnic University, Hong Kong, China_
 * Liping Liu, _Institute of Computing Technology, Chinese Academy of Sciences, China_
 
-### Sponsorship Chair
-* En Shao, _Institute of Computing Technology, Chinese Academy of Sciences, China_
-
-### Finance Chair
-* Guojun Yuan, _Institute of Computing Technology, Chinese Academy of Sciences, China_
-
-### Publicity Chair
-* Xueqi Li, _Institute of Computing Technology, Chinese Academy of Sciences, China_
-
 ### Registration Chairs
 * Wenjing Huang, _University of Chinese Academy of Sciences, China_
 * Yida Gu, _University of Chinese Academy of Sciences, China_
@@ -169,7 +165,7 @@ The technical program is organized around four primary directions:
 
 ### Opening Remarks
 * Jiannong Cao, _Vice President, The Hong Kong Polytechnic University, Hong Kong, China_
-* Guangming Tan, _Secretary General, CCF Technical Committee on High Performance Computing (CCF TCHPC); Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Depei Qian, _Academician, Chinese Academy of Sciences; Beihang University, China_
 
 # Sponsor
 <style>
