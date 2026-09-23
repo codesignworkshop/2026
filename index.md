@@ -120,6 +120,7 @@ The technical program is organized around four primary directions:
 * Dan Huang, _Sun Yat-sen University, China_
 * Depei Qian, _Academician, Chinese Academy of Sciences; Beihang University, China_
 * En Shao, _Institute of Computing Technology, Chinese Academy of Sciences, China_
+* Hailong Yang, _Beihang University, China_
 * Haohuan Fu, _Tsinghua University; National Supercomputing Center in Shenzhen, China_
 * Hong Xu, _The Chinese University of Hong Kong, Hong Kong SAR_
 * Honghui Shang, _University of Science and Technology of China, China_
@@ -130,6 +131,7 @@ The technical program is organized around four primary directions:
 * Marc Casas, _Barcelona Supercomputing Center, Spain_
 * Ming-Chang Yang, _The Chinese University of Hong Kong, Hong Kong SAR_
 * Weifeng Liu, _China University of Petroleum, Beijing, China_
+* Xuanhua Shi, _Huazhong University of Science and Technology, China_
 * Xubin He, _Temple University, United States of America_
 * Xuebin Chi, _Computer Network Information Center, Chinese Academy of Sciences, China_
 * Yuechen Lu, _China University of Petroleum, Beijing, China_
